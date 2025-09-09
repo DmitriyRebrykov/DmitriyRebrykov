@@ -22,11 +22,9 @@
 
 I am a dedicated Backend Developer with a strong foundation in creating robust and high-performance web applications. My expertise lies in leveraging modern technologies to build scalable solutions that solve real-world problems. I thrive on writing clean, maintainable code and am passionate about learning new tools and techniques to enhance my craft.
 
-- 🔭 **Currently working on**: Developing RESTful APIs and optimizing backend workflows with Django and Celery.
-- 🌱 **Currently learning**: Advanced distributed systems and microservices architecture.
-- 👯 **Looking to collaborate on**: Open-source projects involving Python, Django, or backend optimization.
-- 🤔 **Seeking help with**: Exploring cloud-native technologies and DevOps practices.
-- ⚡ **Fun fact**: I enjoy solving complex problems, whether they’re in code or in strategy board games!
+- **Currently working on**: Developing RESTful APIs and optimizing backend workflows with Django and Celery.
+- **Currently learning**: Advanced distributed systems and microservices architecture.
+- **Looking to collaborate on**: Open-source projects involving Python, Django, or backend optimization.
 
 ---
 
@@ -81,7 +79,3 @@ I’m always open to discussing new projects, collaboration opportunities, or te
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DmitriyRebrykov.DmitriyRebrykov" alt="Visitor Badge"/>
-</p>
