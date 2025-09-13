@@ -52,17 +52,20 @@ Here are the technologies and tools I work with:
 
 Here are some of my notable projects:
 
-- **[Project Name 1]**  
-  A scalable web application built with Django and Django REST Framework, integrated with Redis for caching and Celery for asynchronous task processing.  
-  🔗 [Link to Repository] | 🌟 [Live Demo, if applicable]
+- **DressCode**  
+  DressCode is a web service for selling clothing.
+The project is built with Django, leveraging Django REST Framework and a PostgreSQL database.
 
-- **[Project Name 2]**  
-  A full-stack application leveraging Python, HTML, CSS, and JavaScript to deliver a seamless user experience with a robust SQL backend.  
-  🔗 [Link to Repository] | 🌟 [Live Demo, if applicable]
+The technology stack also includes:
 
-- **[Project Name 3]**  
-  An API-driven project focused on optimizing data retrieval and processing using Django and PostgreSQL.  
-  🔗 [Link to Repository] | 🌟 [Live Demo, if applicable]
+Celery — for asynchronous task processing,
+
+Redis — as a message broker and caching layer,
+
+WeasyPrint — for PDF generation,
+
+Rosetta — for localization and translation management.
+  🔗 [[Link to Repository](https://github.com/DmitriyRebrykov/Django-Dresscode.git)] | 🌟 [Live Demo, if applicable]
 
 ---
 
