@@ -73,8 +73,8 @@ Rosetta — for localization and translation management.
 
 I’m always open to discussing new projects, collaboration opportunities, or tech-related ideas. Feel free to reach out!
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- 📧 Email: [your.email@example.com](mailto:dmitriy.rebrikov2006@gmail.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dmytro-rebrykov)
 - 🌐 Portfolio: [Your Portfolio Website, if applicable](https://your-portfolio.com)
 
 <p align="center">
