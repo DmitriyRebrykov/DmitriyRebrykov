@@ -68,7 +68,7 @@ Redis — as a message broker and caching layer,
 WeasyPrint — for PDF generation,
 
 Rosetta — for localization and translation management.
-  🔗 [[Link to Repository](https://github.com/DmitriyRebrykov/EdCode-API)] | 🌟 [Live Demo, if applicable]
+  🔗 [[Link to Repository](https://github.com/DmitriyRebrykov/Django-Dresscode)] | 🌟 [Live Demo, if applicable]
 
 - **Ergonesto**  
   Ergonesto is a full-fledged commercial web project developed independently from scratch for selling ergonomic footrests and focused on real business needs.
@@ -86,7 +86,7 @@ Docker — for reproducible deployment
 HTMX — for dynamic user interactions
 
 HTML, CSS, JavaScript — for the frontend
-  🔗 [[Link to Repository](https://github.com/DmitriyRebrykov/EdCode-API)] | 🌟 [Live Demo, if applicable]
+  🔗 [[Link to Repository](https://github.com/DmitriyRebrykov/Ergonesto)] | 🌟 [Live Demo, if applicable]
 
 - **EdCode API**  
   Edcode is a backend-oriented web service for selling online courses, currently under active development and implemented as a Django REST API. The project is designed for future integration with a Vue.js frontend.
