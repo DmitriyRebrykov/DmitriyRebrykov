@@ -70,6 +70,30 @@ WeasyPrint — for PDF generation,
 Rosetta — for localization and translation management.
   🔗 [[Link to Repository](https://github.com/DmitriyRebrykov/EdCode-API)] | 🌟 [Live Demo, if applicable]
 
+- **Ergonesto**  
+  Ergonesto is a full-fledged commercial web project developed independently from scratch for selling ergonomic footrests and focused on real business needs.
+
+The project is built with Django 5.1, using PostgreSQL as the main database.
+
+The technology stack also includes:
+
+Redis — for caching and background tasks
+
+Celery — for asynchronous task processing
+
+Docker — for reproducible deployment
+
+HTMX — for dynamic user interactions
+
+HTML, CSS, JavaScript — for the frontend
+  🔗 [[Link to Repository](https://github.com/DmitriyRebrykov/EdCode-API)] | 🌟 [Live Demo, if applicable]
+
+- **EdCode API**  
+  Edcode is a backend-oriented web service for selling online courses, currently under active development and implemented as a Django REST API. The project is designed for future integration with a Vue.js frontend.
+
+At the current stage, the project uses Django and Django REST Framework. Authentication is implemented with JWT, and the database layer is still in progress (PostgreSQL integration planned).
+  🔗 [[Link to Repository](https://github.com/DmitriyRebrykov/EdCode-API)] | 🌟 [Live Demo, if applicable]
+
 ---
 
 ## 📫 Get in Touch
