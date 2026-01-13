@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8q3vY2j0z8Q/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY1ZDRvZnJiYjE3MWF0ZHByeWk4eGZ3dWR6em12cjZobXFvM242NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlVJmZTI3Tn94c0/giphy.gif" alt="Coding GIF" width="300"/>
 </p>
 
 <h1 align="center">Hello, I'm Dmitriy Rebrykov! 👋</h1>
@@ -68,7 +68,7 @@ Redis — as a message broker and caching layer,
 WeasyPrint — for PDF generation,
 
 Rosetta — for localization and translation management.
-  🔗 [[Link to Repository](https://github.com/DmitriyRebrykov/Django-Dresscode.git)] | 🌟 [Live Demo, if applicable]
+  🔗 [[Link to Repository](https://github.com/DmitriyRebrykov/EdCode-API)] | 🌟 [Live Demo, if applicable]
 
 ---
 
@@ -76,7 +76,7 @@ Rosetta — for localization and translation management.
 
 I’m always open to discussing new projects, collaboration opportunities, or tech-related ideas. Feel free to reach out!
 
-- 📧 Email: [your.email@example.com](mailto:dmitriy.rebrikov2006@gmail.com)
+- 📧 Email: [dmitriy.rebrikov2006@gmail.com](mailto:dmitriy.rebrikov2006@gmail.com)
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dmytro-rebrykov)
 - 🌐 Portfolio: [Your Portfolio Website, if applicable](https://your-portfolio.com)
 
