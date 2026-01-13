@@ -53,46 +53,55 @@ Here are the technologies and tools I work with:
 
 ## 💼 Featured Projects
 
-Here are some of my notable projects:
+Below each project follows the same structure: one-line summary, status, links, short description, stack, and highlights.
 
-- **DressCode**  
-  DressCode is a web service for selling clothing.
-The project is built with Django, leveraging Django REST Framework and a PostgreSQL database.
+### DressCode — [Repository](https://github.com/DmitriyRebrykov/Django-Dresscode)
+- Live: (if available, add demo link)
+- Status: Production-ready (or indicate current status)
+- Description: Web service for selling clothing. Built with Django and Django REST Framework to support product listings, orders, user accounts, and admin management.
+- Stack:
+  - Backend: Django, Django REST Framework
+  - Database & Cache: PostgreSQL, Redis
+  - Background jobs: Celery
+  - Extras: WeasyPrint for PDF generation, Rosetta for translations
+- Highlights:
+  - Asynchronous tasks for order processing and email generation
+  - PDF invoices generation using WeasyPrint
+  - Internationalization support via Rosetta
+- Link: https://github.com/DmitriyRebrykov/Django-Dresscode
 
-The technology stack also includes:
+---
 
-Celery — for asynchronous task processing,
+### Ergonesto — [Repository](https://github.com/DmitriyRebrykov/Ergonesto)
+- Live: https://ergonesto.com/en/
+- Status: Commercial project (independently developed)
+- Description: Full-featured e-commerce site for ergonomic footrests, built from scratch with real business requirements in mind.
+- Stack:
+  - Backend: Django 5.1
+  - Frontend: HTML, CSS, JavaScript, HTMX for dynamic interactions
+  - Infrastructure: Docker for reproducible deployments
+  - Caching & Tasks: Redis, Celery
+- Highlights:
+  - Business-ready e-commerce flows (catalog, cart, checkout)
+  - HTMX-enhanced UX for progressive enhancement
+  - Containerized deployment with Docker
+- Link: https://github.com/DmitriyRebrykov/Ergonesto
 
-Redis — as a message broker and caching layer,
+---
 
-WeasyPrint — for PDF generation,
-
-Rosetta — for localization and translation management.
-  🔗 [[Link to Repository](https://github.com/DmitriyRebrykov/Django-Dresscode)] | 🌟 [Live Demo, if applicable]
-
-- **Ergonesto**  
-  Ergonesto is a full-fledged commercial web project developed independently from scratch for selling ergonomic footrests and focused on real business needs.
-
-The project is built with Django 5.1, using PostgreSQL as the main database.
-
-The technology stack also includes:
-
-Redis — for caching and background tasks
-
-Celery — for asynchronous task processing
-
-Docker — for reproducible deployment
-
-HTMX — for dynamic user interactions
-
-HTML, CSS, JavaScript — for the frontend
-  🔗 [[Link to Repository](https://github.com/DmitriyRebrykov/Ergonesto)] | 🌟 [Live Demo, if applicable]
-
-- **EdCode API**  
-  Edcode is a backend-oriented web service for selling online courses, currently under active development and implemented as a Django REST API. The project is designed for future integration with a Vue.js frontend.
-
-At the current stage, the project uses Django and Django REST Framework. Authentication is implemented with JWT, and the database layer is still in progress (PostgreSQL integration planned).
-  🔗 [[Link to Repository](https://github.com/DmitriyRebrykov/EdCode-API)] | 🌟 [Live Demo, if applicable]
+### EdCode API — [Repository](https://github.com/DmitriyRebrykov/EdCode-API)
+- Live: (if available, add demo link)
+- Status: In active development (backend API-first)
+- Description: Backend service for selling online courses; designed as a Django REST API with plans for frontend integration (Vue.js planned).
+- Stack:
+  - Backend: Django, Django REST Framework
+  - Auth: JWT
+  - Database: PostgreSQL (planned integration)
+- Highlights:
+  - API-first design for future SPA integration
+  - JWT-based authentication
+  - Modular structure for course/catalog management
+- Link: https://github.com/DmitriyRebrykov/EdCode-API
 
 ---
 
